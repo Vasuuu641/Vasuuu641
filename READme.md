@@ -1,17 +1,64 @@
 # 💫 About Me:
-Hi, I'm Vasu 👋 I am a third-year Computer Science & Engineering student studying in Hungary, focused on building full-stack applications and exploring AI-driven solutions. I am about to begin my first six-month internship at Retink Media, gaining hands-on experience in software development and system design. I am now looking to grow as a full-stack intern 💻, contributing to impactful projects and expanding my experience with both frontend and backend technologies.<br><br>My current projects include Timely ⏰, a student-centric productivity app to manage tasks and track progress effectively, and an AI-powered student and alumni network 🤖, which I am developing as part of my thesis project to enhance academic collaboration and engagement.<br><br>I work primarily with TypeScript, React, NestJS, Prisma, and Docker, focusing on writing modular, maintainable code while building scalable applications. My goal is to continue developing my skills in full-stack development and AI integration, creating software that solves real-world problems for students and professionals alike.
+# Vasundhara Ravikumar
 
+I started as a full-stack developer - I especially loved to build web and mobile applications but the more I built, I realised that I was drawn more to the aspects of security and designing the system architecture than building the app itself. Earlier on, I wasn't sure what I likede more -> networking and security or software development. Having earned CCNA1 and CCNA2 certifications, I thought why not do both?
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasundhara_ravi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasundhararavikumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasundhararavi641@gmail.com) 
+This is what made me pivot my focus to building network security tools and make a shift towards cybersecurity and network security engineering.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vasuuu641&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vasuuu641&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasuuu641&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vasuuu641&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔧 What I'm Building
 
+- **[NIDS](https://github.com/Vasuuu641/NIDS)** — Network intrusion detection system in Python with ML-based anomaly detection using Scapy and scikit-learn
+- **[Network Traffic Visualizer](coming soon)** — Real-time dashboard visualizing traffic patterns and anomalies detected by NIDS
+- **[Firewall Rule Auditor](coming soon)** — Static analysis tool for firewall configurations, identifying misconfigurations and security gaps
+- **[UniBridge](https://github.com/Vasuuu641/Student_Alumni_Network)** — Secure multi-platform student-alumni network with AI-powered note connections, rate-limited embeddings API, and collaborative features
+
+---
+
+## 🛡️ Security & Networking
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 💻 Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+- Cisco CCNA1 — Introduction to Networks
+- Cisco CCNA2 — Switching, Routing and Wireless Essentials
+- CS50 Cybersecurity — Harvard University *(in progress)*
+- CS50x — Harvard University *(in progress)*
+- CS50 Python — Harvard University *(in progress)*
+
+---
+
+## 🖥️ Currently
+
+- Building and documenting a network security project arc — NIDS → traffic analysis → firewall auditing → honeypot
+- Developing Linux skills through hands-on project work
+- Active on HackTheBox — [https://profile.hackthebox.com/profile/019de3a2-bcb9-7093-bae6-68db00387b49]
+- Final-year thesis: UniBridge — secure multi-platform academic collaboration platform
+
+---
+
+## 📬 Find Me
+
+[![LinkedIn](https://www.linkedin.com/in/vasundhararavikumar/)
+[![HackTheBox](https://profile.hackthebox.com/profile/019de3a2-bcb9-7093-bae6-68db00387b49)
+[![Email](vasundhararavi641@gmail.com)
