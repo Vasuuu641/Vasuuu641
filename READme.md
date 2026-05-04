@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Vasundhara Ravikumar
 
-I started as a full-stack developer - I especially loved to build web and mobile applications but the more I built, I realised that I was drawn more to the aspects of security and designing the system architecture than building the app itself. Earlier on, I wasn't sure what I likede more -> networking and security or software development. Having earned CCNA1 and CCNA2 certifications, I thought why not do both?
+I started as a full-stack developer - I especially loved to build web and mobile applications but the more I built, I realised that I was drawn to the aspects of security and designing the system architecture than building the app itself. Earlier on, I wasn't sure what I liked more -> networking and security or software development. Having earned CCNA1 and CCNA2 certifications, I thought why not do both?
 
 This is what made me pivot my focus to building network security tools and make a shift towards cybersecurity and network security engineering.
 
