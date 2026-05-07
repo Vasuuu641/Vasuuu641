@@ -56,9 +56,3 @@ This is what made me pivot my focus to building network security tools and make 
 - Final-year thesis: UniBridge — secure multi-platform academic collaboration platform
 
 ---
-
-## 📬 Find Me
-
-[![LinkedIn](https://www.linkedin.com/in/vasundhararavikumar/)
-[![HackTheBox](https://profile.hackthebox.com/profile/019de3a2-bcb9-7093-bae6-68db00387b49)
-[![Email](vasundhararavi641@gmail.com)
