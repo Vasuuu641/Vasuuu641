@@ -9,7 +9,7 @@ This is what made me pivot my focus to building network security tools and make 
 
 ## 🔧 What I'm Building
 
-- **[NIDS](https://github.com/Vasuuu641/NIDS)(coming-soon)** — Network intrusion detection system in Python with ML-based anomaly detection using Scapy and scikit-learn
+- **[NIDS](https://github.com/Vasuuu641/NIDS)** — Network intrusion detection system in Python with ML-based anomaly detection using Scapy and scikit-learn
 - **[Network Traffic Visualizer](coming soon)** — Real-time dashboard visualizing traffic patterns and anomalies detected by NIDS
 - **[Firewall Rule Auditor](coming soon)** — Static analysis tool for firewall configurations, identifying misconfigurations and security gaps
 - **[UniBridge](https://github.com/Vasuuu641/Student_Alumni_Network)** — Secure multi-platform student-alumni network with AI-powered note connections, rate-limited embeddings API, and collaborative features
