@@ -50,7 +50,7 @@ This is what made me pivot my focus to building network security tools and make 
 
 ## 🖥️ Currently
 
-- Building and documenting a network security project arc — NIDS → traffic analysis → firewall auditing → honeypot
+- Building and documenting a network security project arc — NIDS → threat analysis research
 - Developing Linux skills through hands-on project work
 - Final-year thesis: UniBridge — secure multi-platform academic collaboration platform
 
