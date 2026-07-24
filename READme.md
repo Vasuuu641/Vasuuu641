@@ -40,10 +40,8 @@ This is what made me pivot my focus to building network security tools and make 
 
 - Cisco CCNA1 — Introduction to Networks
 - Cisco CCNA2 — Switching, Routing and Wireless Essentials
-- CS50 Cybersecurity — Harvard University *(in progress)*
+- CS50 Python — Harvard University
 - CS50x — Harvard University *(in progress)*
-- CS50 Python — Harvard University *(in progress)*
-
 ---
 
 ## 🖥️ Currently
