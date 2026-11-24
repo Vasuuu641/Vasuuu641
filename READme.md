@@ -51,3 +51,5 @@ This is what made me pivot my focus to building network security tools and make 
 - Final-year thesis: UniBridge — secure multi-platform academic collaboration platform
 
 ---
+
+Learn more about me @ https://cyber-folio-rose.vercel.app/ where you can see all the competitions, and extra curriculars I have participated in :)
